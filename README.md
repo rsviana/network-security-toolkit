@@ -205,9 +205,9 @@ Para dúvidas, sugestões ou problemas:
 - Abra uma issue no repositório
 - Consulte a documentação
 - Execute os testes para verificar o funcionamento
-- 📧 Email: rodrigo@rodrigoviana.dev.br
-- 🌐 Site: https://rodrigoviana.dev.br
-- 💼 LinkedIn: https://linkedin.com/in/rodrigo-viana
+    - 📧 Email: rodrigo@rodrigoviana.dev.br
+    - 🌐 Site: https://rodrigoviana.dev.br
+    - 💼 LinkedIn: https://linkedin.com/in/rodrigo-viana
 
 
 ---
